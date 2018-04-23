@@ -58,8 +58,9 @@ SCRIPTS := build-scripts
 all: dist
 
 clean:
-	git clean -dX  # remove ignored files and directories
-	-rm -r '$(BUILD)'
+#	git clean -dX  # remove ignored files and directories
+	-rm -rf '$(BUILD)'
+	-$(MAKE) -C src clean
 
 checkin:
 	-git commit -a
