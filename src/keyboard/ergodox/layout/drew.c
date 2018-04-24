@@ -72,7 +72,7 @@ KB_MATRIX_LAYER(
 	KEY_LeftControl,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
 	KEY_LeftShift,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	KEY_b_B,	
 	KEY_GraveAccent_Tilde,	KEY_n_N,	KEY_LeftAlt,	KEY_LeftBracket_LeftBrace,	KEY_RightBracket_RightBrace,	
-	KEY_LeftControl,	KEY_LeftAlt,	
+	MEDIAKEY_AUDIO_VOL_DOWN,	MEDIAKEY_AUDIO_VOL_UP,	
 	0,	0,	KEY_Home,	
 	KEY_Spacebar,	KEY_LeftGUI,	KEY_End,	
 	// right hand
@@ -307,7 +307,7 @@ KB_MATRIX_LAYER(
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
-	kprrel,	kprrel,	
+	mprrel,	mprrel,	
 	NULL,	NULL,	kprrel,	
 	kprrel,	kprrel,	kprrel,	
 	// right hand
@@ -542,7 +542,7 @@ KB_MATRIX_LAYER(
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
 	kprrel,	kprrel,	kprrel,	kprrel,	kprrel,	
-	kprrel,	kprrel,	
+	mprrel,	mprrel,	
 	NULL,	NULL,	kprrel,	
 	kprrel,	kprrel,	kprrel,	
 	// right hand
