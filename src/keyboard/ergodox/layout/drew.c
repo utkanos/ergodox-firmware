@@ -67,16 +67,16 @@ KB_MATRIX_LAYER(
 	// unused
 	0,	
 	// left hand
-	KEY_Escape,	KEY_1_Exclamation,	KEY_2_At,	KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	KEY_Escape,	
+	KEY_Escape,	KEY_1_Exclamation,	KEY_2_At,	KEY_3_Pound,	KEY_4_Dollar,	KEY_5_Percent,	KEY_6_Caret,	
 	KEY_Tab,	KEY_q_Q,	KEY_w_W,	KEY_e_E,	KEY_r_R,	KEY_t_T,	1,	
 	KEY_LeftControl,	KEY_a_A,	KEY_s_S,	KEY_d_D,	KEY_f_F,	KEY_g_G,	
-	KEY_LeftShift,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	KEY_b_B,	
-	KEY_GraveAccent_Tilde,	KEY_n_N,	KEY_LeftAlt,	KEY_LeftBracket_LeftBrace,	KEY_RightBracket_RightBrace,	
+	KEY_LeftShift,	KEY_z_Z,	KEY_x_X,	KEY_c_C,	KEY_v_V,	KEY_b_B,	1,	
+	KEY_Escape,	KEY_GraveAccent_Tilde,	KEY_LeftAlt,	KEY_LeftBracket_LeftBrace,	KEY_RightBracket_RightBrace,	
 	MEDIAKEY_AUDIO_VOL_DOWN,	MEDIAKEY_AUDIO_VOL_UP,	
 	0,	0,	KEY_Home,	
 	KEY_Spacebar,	KEY_LeftGUI,	KEY_End,	
 	// right hand
-	KEY_F8,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_DeleteBackspace,	
+	KEY_5_Percent,	KEY_6_Caret,	KEY_7_Ampersand,	KEY_8_Asterisk,	KEY_9_LeftParenthesis,	KEY_0_RightParenthesis,	KEY_DeleteBackspace,	
 	KEY_Equal_Plus,	KEY_y_Y,	KEY_u_U,	KEY_i_I,	KEY_o_O,	KEY_p_P,	KEY_Backslash_Pipe,	
 	KEY_h_H,	KEY_j_J,	KEY_k_K,	KEY_l_L,	KEY_Semicolon_Colon,	KEY_ReturnEnter,	
 	KEY_Dash_Underscore,	KEY_n_N,	KEY_m_M,	KEY_Comma_LessThan,	KEY_Period_GreaterThan,	KEY_Slash_Question,	KEY_RightShift,	

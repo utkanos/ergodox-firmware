@@ -63,7 +63,7 @@ clean:
 	-$(MAKE) -C src clean
 
 checkin:
-	-git commit -a
+	#-git commit -a
 
 build-dir:
 	-rm -r '$(BUILD)/$(TARGET)'*
